@@ -1,0 +1,7 @@
+﻿  dns.c
+  List.c
+C:\Users\Legion\Desktop\DNS-Сервер\DNS-Сервер\List.c(18,13): warning C4013: exit: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Legion\Desktop\DNS-Сервер\DNS-Сервер\List.c(30,28): warning C4090: функция: разные квалификаторы "const"
+C:\Users\Legion\Desktop\DNS-Сервер\DNS-Сервер\List.c(42,32): warning C4090: функция: разные квалификаторы "const"
+  Создание кода...
+  DNS-Сервер.vcxproj -> C:\Users\Legion\Desktop\DNS-Сервер\Debug\DNS-Сервер.exe
