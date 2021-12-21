@@ -1,0 +1,4 @@
+﻿  PID.c
+C:\Users\Legion\Desktop\2 курс\СП\PID (lab2)\PID\PID.c(34,28): warning C4013: PrintProcessThreads: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Legion\Desktop\2 курс\СП\PID (lab2)\PID\PID.c(36,28): warning C4013: PrintProcessModules: нет определения; предполагается "extern" с возвратом типа "int"
+  PID.vcxproj -> C:\Users\Legion\Desktop\2 курс\СП\PID (lab2)\Debug\PID.exe
